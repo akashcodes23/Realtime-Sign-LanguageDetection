@@ -1,0 +1,10 @@
+# virtual envs
+venv/
+.venv/
+**/venv/
+**/.venv/
+# python caches and models
+__pycache__/
+*.pyc
+*.pyo
+*.h5
