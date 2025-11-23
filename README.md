@@ -48,12 +48,9 @@ The system is built using:
 	•	Trained LSTM model for multiple gesture classes
 
 
-## Demo
+##  Demo Video
 
-Watch the model in action:
-
-(https://img.youtube.com/vi/FGgRwOvy6ws/0.jpg)](https://youtu.be/FGgRwOvy6ws)
-
+[![Watch the Demo](https://img.youtube.com/vi/FGgRwOvy6ws/0.jpg)](https://youtu.be/FGgRwOvy6ws?si=uqnT5M5oIDgXpcrv)
 
 ## Getting Started
 
@@ -142,6 +139,7 @@ For questions or collaboration opportunities:
 
 📧 Email: akashgpatil23.05@gmail.com
 🌐 GitHub: @akashcodes23
+
 
 
 
