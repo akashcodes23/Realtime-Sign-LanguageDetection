@@ -136,21 +136,22 @@ The system is modular, so adding new classes is very easy.
 Contributions are always welcome!
 
 Open a PR or issue if you:
-	•	Want to add new gestures
-	•	Improve accuracy
-	•	Add language-specific gesture sets (ASL / ISL / BSL)
-	•	Add UI / Flask backend
-	•	Build a dataset module
+	•Want to add new gestures
+	•Improve accuracy
+	•Add language-specific gesture sets (ASL / ISL / BSL)
+	•Add UI / Flask backend
+	•Build a dataset module
 
 
 ## License
 
-This project is licensed under the MIT License — feel free to use, modify, and distribute with proper attribution.
+Licensed under the MIT License, allowing full flexibility to reuse, modify, distribute, and integrate this project into personal or commercial applications. Attribution is required.
 
 
 ## Contact
 
-For questions or collaboration opportunities feel free to contact akashgpatil23.05@gmail.com
+If you have questions, suggestions, or collaboration ideas, feel free to reach out at:
+📩 akashgpatil23.05@gmail.com
 
 
 
