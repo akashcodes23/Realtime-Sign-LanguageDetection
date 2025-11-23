@@ -121,12 +121,12 @@ Realtime-Sign-LanguageDetection
 
 ## How to Add New Gestures?
 
-1️⃣ **Go to notebook Train.ipynb**
-2️⃣ **Add the new gesture class**
-3️⃣ **Record new gesture samples using Mediapipe**
-4️⃣ **Retrain the LSTM**
-5️⃣ **Save the new model**
-6️⃣ **Run main.py again**
+1️ Go to notebook **Train.ipynb**
+2️ Add the new gesture class
+3️ Record new gesture samples using Mediapipe
+4️ Retrain the LSTM
+5️ Save the new model
+6️ Run main.py again
 
 The system is modular, so adding new classes is very easy.
 
@@ -151,6 +151,7 @@ This project is licensed under the MIT License — feel free to use, modify, and
 ## Contact
 
 For questions or collaboration opportunities feel free to contact akashgpatil23.05@gmail.com
+
 
 
 
