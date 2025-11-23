@@ -36,22 +36,22 @@ The system is built using:
 ✔ NumPy
 
 
-✨ Features
+## Features
 
-	•	⚡ Realtime gesture prediction (30 FPS)
-	•	🎯 High-accuracy LSTM-based recognition
-	•	🧩 Modular architecture — easy to add new gestures
-	•	🖐️ Uses Mediapipe Holistic for human keypoints
-	•	📷 Works with any webcam
-	•	🌐 Clean, reusable training & inference pipelines
-	•	🧠 Trained LSTM model for multiple gesture classes
+	•	Realtime gesture prediction (30 FPS)
+	•	High-accuracy LSTM-based recognition
+	•	Modular architecture — easy to add new gestures
+	•	Uses Mediapipe Holistic for human keypoints
+	•	Works with any webcam
+	•	Clean, reusable training & inference pipelines
+	•	Trained LSTM model for multiple gesture classes
 
 
 ## Demo
 
 Watch the model in action:
 
-
+https://github.com/akashcodes23/Realtime-Sign-LanguageDetection/assets/187194530/6035de79-82b2-4aac-9b92-83cdefe688f6
 
 
 ## Getting Started
@@ -87,14 +87,14 @@ Open:
 RealTimeSignLanguageDetection.ipynb
 
 
-▶️ Usage (Run the full System)
+## Usage (Run the full System)
 
 Run Realtime Prediction
 
 python main.py
 
 
-📁 Project Structure
+## Project Structure
 
 📂 Realtime-Sign-LanguageDetection
 │── main.py                     # Realtime prediction script
@@ -105,7 +105,7 @@ python main.py
 │── requirements.txt
 │── README.md
 
-👨‍💻 How to Add New Gestures?
+## How to Add New Gestures?
 
 1️⃣ Go to notebook Train.ipynb
 2️⃣ Add the new gesture class
@@ -140,5 +140,6 @@ For questions or collaboration opportunities:
 
 📧 Email: akashgpatil23.05@gmail.com
 🌐 GitHub: @akashcodes23
+
 
 
