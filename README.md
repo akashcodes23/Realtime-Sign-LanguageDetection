@@ -34,12 +34,13 @@ This project is ideal for:
 
 The system is built using:
 
+``
 ✔ Python 3.8
 ✔ Mediapipe
 ✔ OpenCV
 ✔ TensorFlow / Keras LSTM
 ✔ NumPy
-
+``
 
 ## Features
 
@@ -120,13 +121,14 @@ Realtime-Sign-LanguageDetection
 
 ## How to Add New Gestures?
 
+``
 1️⃣ Go to notebook Train.ipynb
 2️⃣ Add the new gesture class
 3️⃣ Record new gesture samples using Mediapipe
 4️⃣ Retrain the LSTM
 5️⃣ Save the new model
 6️⃣ Run main.py again
-
+``
 The system is modular, so adding new classes is very easy.
 
 
@@ -150,6 +152,7 @@ This project is licensed under the MIT License — feel free to use, modify, and
 ## Contact
 
 For questions or collaboration opportunities feel free to contact akashgpatil23.05@gmail.com
+
 
 
 
