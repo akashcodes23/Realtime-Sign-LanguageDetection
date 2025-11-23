@@ -30,7 +30,7 @@ This project is ideal for:
 
 The system is built using:
 
-✔ Python
+✔ Python 3.8
 ✔ Mediapipe
 ✔ OpenCV
 ✔ TensorFlow / Keras LSTM
@@ -95,7 +95,8 @@ python main.py
 
 ## Project Structure
 
-📂 Realtime-Sign-LanguageDetection
+
+Realtime-Sign-LanguageDetection
 │── main.py                     # Realtime prediction script
 │── Train.ipynb                 # Training pipeline (LSTM)
 │── RealTimeSignLanguageDetection.ipynb
@@ -135,10 +136,7 @@ This project is licensed under the MIT License — feel free to use, modify, and
 
 ## Contact
 
-For questions or collaboration opportunities:
-
-📧 Email: akashgpatil23.05@gmail.com
-🌐 GitHub: @akashcodes23
+For questions or collaboration opportunities feel free to contact akashgpatil23.05@gmail.com
 
 
 
