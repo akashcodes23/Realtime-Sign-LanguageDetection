@@ -51,8 +51,7 @@ The system is built using:
 
 Watch the model in action:
 
-https://github.com/akashcodes23/Realtime-Sign-LanguageDetection/assets/187194530/6035de79-82b2-4aac-9b92-83cdefe688f6
-
+https://github.com/akashcodes23/Realtime-Sign-LanguageDetection/blob/8b3dc2f7dbcaa277439f57d27811c2c3eed6e58c/VID-20251121-WA0037.mp4
 
 ## Getting Started
 
@@ -140,6 +139,7 @@ For questions or collaboration opportunities:
 
 📧 Email: akashgpatil23.05@gmail.com
 🌐 GitHub: @akashcodes23
+
 
 
 
