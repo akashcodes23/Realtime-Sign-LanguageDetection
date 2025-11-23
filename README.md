@@ -133,14 +133,16 @@ The system is modular, so adding new classes is very easy.
 
 ## Contributing
 
-Contributions are always welcome!
+We welcome contributions from developers, researchers, and enthusiasts.
 
-Open a PR or issue if you:
-``-Want to add new gestures``
-``-Improve accuracy``
-``-Add language-specific gesture sets (ASL / ISL / BSL)``
-``-Add UI / Flask backend``
-``-Build a dataset module``
+You can contribute by:
+- Introducing new gesture classes to the LSTM model
+- Optimizing model training, preprocessing, or real-time inference
+- Implementing UI enhancements or API integrations
+- Adding support for additional sign languages (ASL/ISL/BSL)
+- Improving dataset collection, data augmentation, or pipeline modularity
+
+To contribute, open a Pull Request or create an Issue with your proposal.
 
 
 ## License
@@ -152,6 +154,7 @@ Licensed under the MIT License, allowing full flexibility to reuse, modify, dist
 
 If you have questions, suggestions, or collaboration ideas, feel free to reach out at:
 📩 akashgpatil23.05@gmail.com
+
 
 
 
