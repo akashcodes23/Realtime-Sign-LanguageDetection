@@ -73,16 +73,16 @@ Install the following:
 
 ### 1️⃣ Clone the Repository
 
-`git clone https://github.com/akashcodes23/Realtime-Sign-LanguageDetection.git
-cd Realtime-Sign-LanguageDetection`
+``git clone https://github.com/akashcodes23/Realtime-Sign-LanguageDetection.git
+cd Realtime-Sign-LanguageDetection``
 
 ### 2️⃣ Install Dependencies
 
-pip install -r requirements.txt
+``pip install -r requirements.txt``
 
 ### 3️⃣ Run the Notebook 
 
-jupyter notebook
+``jupyter notebook``
 
 Open:
 
@@ -93,20 +93,20 @@ RealTimeSignLanguageDetection.ipynb
 
 Run Realtime Prediction
 
-python main.py
+``python main.py``
 
 
 ## Project Structure
 
 
-Realtime-Sign-LanguageDetection
+``Realtime-Sign-LanguageDetection
 │── main.py                     # Realtime prediction script
 │── Train.ipynb                 # Training pipeline (LSTM)
 │── RealTimeSignLanguageDetection.ipynb
 │── v2/                         # Dataset & preprocessing
 │── model.h5 / model_weights.h5 (optional)
 │── requirements.txt
-│── README.md
+│── README.md``
 
 ## How to Add New Gestures?
 
@@ -140,6 +140,7 @@ This project is licensed under the MIT License — feel free to use, modify, and
 ## Contact
 
 For questions or collaboration opportunities feel free to contact akashgpatil23.05@gmail.com
+
 
 
 
