@@ -21,6 +21,7 @@ This project implements a Realtime Sign Language Detection System using LSTM-bas
 The system captures hand & body keypoints from a live webcam feed, processes them into sequences, and passes them to an LSTM neural network that recognizes gestures in real-time.
 
 This project is ideal for:
+
 	•	Assistive communication tools
 	•	Human-computer interaction
 	•	Gesture-based interfaces
@@ -51,7 +52,8 @@ The system is built using:
 
 Watch the model in action:
 
-https://github.com/akashcodes23/Realtime-Sign-LanguageDetection/blob/8b3dc2f7dbcaa277439f57d27811c2c3eed6e58c/VID-20251121-WA0037.mp4
+(https://img.youtube.com/vi/FGgRwOvy6ws/0.jpg)](https://youtu.be/FGgRwOvy6ws)
+
 
 ## Getting Started
 
@@ -60,6 +62,7 @@ To get started with the Realtime Sign Language Detection Using LSTM Model, follo
 ### Prerequisites
 
 Install the following:
+	
 	•	Python 3.8+
 	•	Mediapipe
 	•	OpenCV
@@ -139,6 +142,7 @@ For questions or collaboration opportunities:
 
 📧 Email: akashgpatil23.05@gmail.com
 🌐 GitHub: @akashcodes23
+
 
 
 
