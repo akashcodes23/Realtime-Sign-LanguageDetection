@@ -73,8 +73,8 @@ Install the following:
 
 ### 1️⃣ Clone the Repository
 
-``git clone https://github.com/akashcodes23/Realtime-Sign-LanguageDetection.git
-cd Realtime-Sign-LanguageDetection``
+***git clone https://github.com/akashcodes23/Realtime-Sign-LanguageDetection.git
+cd Realtime-Sign-LanguageDetection***
 
 ### 2️⃣ Install Dependencies
 
@@ -140,6 +140,7 @@ This project is licensed under the MIT License — feel free to use, modify, and
 ## Contact
 
 For questions or collaboration opportunities feel free to contact akashgpatil23.05@gmail.com
+
 
 
 
